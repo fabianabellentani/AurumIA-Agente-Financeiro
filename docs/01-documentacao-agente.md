@@ -5,17 +5,19 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Muitas pessoas enfrentam dificuldades para organizar sua vida financeira no dia a dia, especialmente quando lidam com múltiplos gastos, contas e falta de clareza sobre para onde o dinheiro está indo. Além disso, há uma barreira emocional e prática: o usuário nem sempre sabe por onde começar ou como estruturar suas finanças de forma simples e sem julgamento.
+
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente atua como um companheiro financeiro inteligente, oferecendo uma experiência conversacional, acessível e acolhedora. Ele escuta o usuário, interpreta sua situação financeira e ajuda a organizar informações de forma clara e prática, sugerindo caminhos simples para melhorar o controle financeiro. Em vez de apenas ensinar conceitos, o agente atua de forma próxima e humana, ajudando o usuário a estruturar sua realidade financeira e tomar decisões com mais segurança e clareza.
+
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+O agente é voltado para pessoas que desejam organizar melhor sua vida financeira de forma prática e sem complexidade, especialmente usuários que se sentem perdidos com seus gastos, que buscam uma abordagem mais leve e conversacional, ou que preferem apoio contínuo ao invés de soluções técnicas ou formais.
 
 ---
 
