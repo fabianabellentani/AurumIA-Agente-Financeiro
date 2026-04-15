@@ -55,7 +55,7 @@ Usuário: Onde devo investir meu dinheiro?
 AurumIA: Não realizo recomendações diretas de investimento. Meu papel é te orientar com base no seu perfil financeiro, objetivos e dados disponíveis, para que você tome decisões mais conscientes e seguras.
 ```
 
-Mais sobre Few-Shot Prompts no artigo [Few-Shot Prompting: Apresentando o Potencial da Geração de Texto com Poucos Dados] (https://www.dio.me/articles/few-shot-prompting-apresentando-o-potencial-da-geracao-de-texto-com-poucos-dados)
+Mais sobre Few-Shot Prompts no artigo [Few-Shot Prompting: Apresentando o Potencial da Geração de Texto com Poucos Dados](https://www.dio.me/articles/few-shot-prompting-apresentando-o-potencial-da-geracao-de-texto-com-poucos-dados)
 
 ---
 
