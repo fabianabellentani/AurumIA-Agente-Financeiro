@@ -114,8 +114,8 @@ O AurumIA utiliza dados mockados para simular um ambiente financeiro real:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/fabianabellentani/dio-lab-bia-do-futuro.git
-cd dio-lab-bia-do-futuro
+git clone https://github.com/fabianabellentani/AurumIA-Agente-Financeiro.git
+cd AurumIA-Agente-Financeiro
 
 # 2. Instale as dependências
 pip install streamlit pandas requests
@@ -179,7 +179,7 @@ Acesse no navegador: `http://localhost:8501`
 
 **Fabiana Bellentani**
 
-[![GitHub](https://img.shields.io/badge/-fabianabellentani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianabellentani)
+[![GitHub](https://img.shields.io/badge/-fabianabellentani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianabellentani/AurumIA-Agente-Financeiro)
 
 *Projeto desenvolvido durante o Bootcamp DIO + Bradesco 2026*
 
