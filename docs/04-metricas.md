@@ -17,33 +17,28 @@ A avaliação pode ser feita de duas formas complementares:
 | **Segurança** | O agente evitou inventar informações? | Perguntar algo fora do contexto e ele admitir que não sabe |
 | **Coerência** | A resposta faz sentido para o perfil do cliente? | Sugerir investimento conservador para cliente conservador |
 
-> [!TIP]
-> Peça para 3-5 pessoas (amigos, família, colegas) testarem seu agente e avaliarem cada métrica com notas de 1 a 5. Isso torna suas métricas mais confiáveis! Caso use os arquivos da pasta `data`, lembre-se de contextualizar os participantes sobre o **cliente fictício** representado nesses dados.
-
 ---
 
 ## Exemplos de Cenários de Teste
 
-Crie testes simples para validar seu agente:
+### Teste 1: Progresso de meta financeira
+- **Pergunta:** "Quanto falta para eu completar minha reserva de emergência?"
+- **Resposta esperada:** O agente deve identificar que a meta é R$ 20.000 e o valor atual é R$ 10.000, informando que faltam R$ 10.000.
+- **Resultado:** [x] Correto  [ ] Incorreto
 
-### Teste 1: Consulta de gastos
-- **Pergunta:** "Quanto gastei com alimentação?"
-- **Resposta esperada:** Valor baseado no `transacoes.csv`
-- **Resultado:** [ ] Correto  [ ] Incorreto
-
-### Teste 2: Recomendação de produto
-- **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+### Teste 2: Consulta de gastos
+- **Pergunta:** "Qual foi minha categoria com maior gasto recente?"
+- **Resposta esperada:** O agente deve identificar moradia como maior categoria, totalizando R$ 1.380 (aluguel + conta de luz).
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 3: Pergunta fora do escopo
-- **Pergunta:** "Qual a previsão do tempo?"
+- **Pergunta:** "Quem será o próximo campeão brasileiro de futebol?"
 - **Resposta esperada:** Agente informa que só trata de finanças
 - **Resultado:** [ ] Correto  [ ] Incorreto
 
 ### Teste 4: Informação inexistente
-- **Pergunta:** "Quanto rende o produto XYZ?"
-- **Resposta esperada:** Agente admite não ter essa informação
+- **Pergunta:** "Qual a rentabilidade do Fundo Internacional Premium?"
+- **Resposta esperada:** O agente deve informar que esse produto não consta na base de conhecimento e admitir que não possui essa informação.
 - **Resultado:** [ ] Correto  [ ] Incorreto
 
 ---
