@@ -1,5 +1,3 @@
-div align="center">
-
 # ✨ AurumIA — Assistente Financeiro Inteligente
 
 > Agente financeiro conversacional com IA Generativa, rodando 100% localmente com Ollama.  
